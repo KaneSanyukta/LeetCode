@@ -2,7 +2,7 @@ package com.dsa;
 
 class DigitSum {
     public static int sum(int num) {
-        int digit=1,sum=0;
+        int digit,sum=0;
         while(num!=0){
             digit = num%10;
             num = num/10;
