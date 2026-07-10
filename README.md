@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KaneSanyukta/LeetCode/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/KaneSanyukta/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KaneSanyukta/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/KaneSanyukta/LeetCode/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KaneSanyukta/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KaneSanyukta/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KaneSanyukta/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaneSanyukta/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KaneSanyukta/LeetCode/tree/master/0735-asteroid-collision) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KaneSanyukta/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
