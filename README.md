@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/KaneSanyukta/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0695-max-area-of-island](https://github.com/KaneSanyukta/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/KaneSanyukta/LeetCode/tree/master/0735-asteroid-collision) |
+| [2460-apply-operations-to-an-array](https://github.com/KaneSanyukta/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KaneSanyukta/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/KaneSanyukta/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/KaneSanyukta/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/KaneSanyukta/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KaneSanyukta/LeetCode/tree/master/0735-asteroid-collision) |
+| [2460-apply-operations-to-an-array](https://github.com/KaneSanyukta/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
