@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KaneSanyukta/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaneSanyukta/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/KaneSanyukta/LeetCode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/KaneSanyukta/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/KaneSanyukta/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/KaneSanyukta/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KaneSanyukta/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/KaneSanyukta/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KaneSanyukta/LeetCode/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KaneSanyukta/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
